@@ -18,7 +18,7 @@
 </ul>
 
 <h3>Methodology</h3>
-<img width="822" height="562" alt="Image" src="https://github.com/user-attachments/assets/eddcc677-f447-4db5-9b90-f0976f003e17" />
+<img width="1063" height="712" alt="Image" src="https://github.com/user-attachments/assets/1b84fd64-5c07-48c7-95d6-bce69a76c0a8" />
 
 <h3>Results</h3>
 <ol>
